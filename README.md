@@ -62,14 +62,8 @@ cd SpringBootCRUDOperations
 
 4. Run the project using:
 
-
 5. Test the APIs using Postman or any REST client.
-
- 👩‍💻 Author
-
-Gayathri Bestha
-
----
+   
 
 This project is a great example of building RESTful APIs using Spring Boot with a clear and modular architecture.
 
@@ -93,3 +87,8 @@ The application is built using a layered architecture that includes:
 
 This structure ensures clean code organization, modular development, and ease of testing and maintenance.
 
+👩‍💻 Author
+
+Gayathri Bestha
+
+---
